@@ -1,0 +1,121 @@
+provider_id,provider_name,provider_type,specialty,city,state
+P001,Sunrise Clinic 01,Clinic,General,Austin,CA
+P002,Lakeside Diagnostics Lab 01,Lab,General,Miami,TX
+P003,Metro Clinic 02,Clinic,General,Houston,GA
+P004,Cedar Clinic 03,Clinic,General,Dallas,TX
+P005,Summit Clinic 04,Clinic,General,Atlanta,TX
+P006,Riverbend Clinic 05,Clinic,General,Miami,TX
+P007,Clearview Specialty Center 01,Specialty Practice,Endocrinology,Austin,AZ
+P008,Northgate Clinic 06,Clinic,General,Atlanta,CA
+P009,Harmony Clinic 07,Clinic,General,Dallas,FL
+P010,Brightpath Pharmacy 01,Pharmacy,General,Denver,TX
+P011,Sunrise Medical Center 01,Hospital,General,Miami,TX
+P012,Lakeside Pharmacy 02,Pharmacy,General,Chicago,FL
+P013,Metro Clinic 08,Clinic,General,Dallas,TX
+P014,Cedar Clinic 09,Clinic,General,Dallas,IL
+P015,Summit Clinic 10,Clinic,General,Chicago,CA
+P016,Riverbend Pharmacy 03,Pharmacy,General,Houston,CO
+P017,Clearview Diagnostics Lab 02,Lab,General,Dallas,TX
+P018,Northgate Specialty Center 02,Specialty Practice,Oncology,Miami,TX
+P019,Harmony Pharmacy 04,Pharmacy,General,Atlanta,PA
+P020,Brightpath Pharmacy 05,Pharmacy,General,Atlanta,NC
+P021,Sunrise Pharmacy 06,Pharmacy,General,Chicago,CA
+P022,Lakeside Clinic 11,Clinic,General,Austin,TX
+P023,Metro Specialty Center 03,Specialty Practice,Orthopedics,Houston,CA
+P024,Cedar Specialty Center 04,Specialty Practice,Cardiology,Atlanta,NY
+P025,Summit Clinic 12,Clinic,General,Dallas,TX
+P026,Riverbend Medical Center 02,Hospital,General,Austin,TX
+P027,Clearview Clinic 13,Clinic,General,Atlanta,FL
+P028,Northgate Diagnostics Lab 03,Lab,General,Miami,TX
+P029,Harmony Medical Center 03,Hospital,General,Atlanta,NC
+P030,Brightpath Medical Center 04,Hospital,General,Denver,TX
+P031,Sunrise Clinic 14,Clinic,General,Austin,CO
+P032,Lakeside Pharmacy 07,Pharmacy,General,Dallas,FL
+P033,Metro Clinic 15,Clinic,General,Phoenix,CO
+P034,Cedar Clinic 16,Clinic,General,Chicago,AZ
+P035,Summit Pharmacy 08,Pharmacy,General,Dallas,TX
+P036,Riverbend Specialty Center 05,Specialty Practice,Orthopedics,Denver,TX
+P037,Clearview Clinic 17,Clinic,General,Austin,TX
+P038,Northgate Pharmacy 09,Pharmacy,General,Chicago,GA
+P039,Harmony Pharmacy 10,Pharmacy,General,Miami,TX
+P040,Brightpath Medical Center 05,Hospital,General,Atlanta,GA
+P041,Sunrise Pharmacy 11,Pharmacy,General,Houston,NC
+P042,Lakeside Medical Center 06,Hospital,General,Austin,CA
+P043,Metro Pharmacy 12,Pharmacy,General,Phoenix,IL
+P044,Cedar Specialty Center 06,Specialty Practice,Endocrinology,Miami,NC
+P045,Summit Specialty Center 07,Specialty Practice,Cardiology,Chicago,AZ
+P046,Riverbend Medical Center 07,Hospital,General,Atlanta,TX
+P047,Clearview Pharmacy 13,Pharmacy,General,Denver,TX
+P048,Northgate Clinic 18,Clinic,General,Houston,FL
+P049,Harmony Diagnostics Lab 04,Lab,General,Dallas,TX
+P050,Brightpath Clinic 19,Clinic,General,Atlanta,FL
+P051,Sunrise Pharmacy 14,Pharmacy,General,Atlanta,CO
+P052,Lakeside Pharmacy 15,Pharmacy,General,Austin,CA
+P053,Metro Pharmacy 16,Pharmacy,General,Chicago,TX
+P054,Cedar Diagnostics Lab 05,Lab,General,Houston,TX
+P055,Summit Medical Center 08,Hospital,General,Houston,PA
+P056,Riverbend Pharmacy 17,Pharmacy,General,Miami,TX
+P057,Clearview Clinic 20,Clinic,General,Dallas,TX
+P058,Northgate Medical Center 09,Hospital,General,Atlanta,FL
+P059,Harmony Diagnostics Lab 06,Lab,General,Denver,CA
+P060,Brightpath Clinic 21,Clinic,General,Chicago,TX
+P061,Sunrise Clinic 22,Clinic,General,Phoenix,FL
+P062,Lakeside Clinic 23,Clinic,General,Austin,FL
+P063,Metro Clinic 24,Clinic,General,Dallas,TX
+P064,Cedar Pharmacy 18,Pharmacy,General,Dallas,CA
+P065,Summit Pharmacy 19,Pharmacy,General,Atlanta,GA
+P066,Riverbend Clinic 25,Clinic,General,Atlanta,TX
+P067,Clearview Diagnostics Lab 07,Lab,General,Phoenix,CO
+P068,Northgate Specialty Center 08,Specialty Practice,Endocrinology,Austin,TX
+P069,Harmony Diagnostics Lab 08,Lab,General,Dallas,CA
+P070,Brightpath Clinic 26,Clinic,General,Dallas,IL
+P071,Sunrise Specialty Center 09,Specialty Practice,Orthopedics,Austin,FL
+P072,Lakeside Clinic 27,Clinic,General,Miami,TX
+P073,Metro Diagnostics Lab 09,Lab,General,Austin,FL
+P074,Cedar Clinic 28,Clinic,General,Dallas,CO
+P075,Summit Medical Center 10,Hospital,General,Atlanta,CA
+P076,Riverbend Clinic 29,Clinic,General,Houston,TX
+P077,Clearview Diagnostics Lab 10,Lab,General,Phoenix,TX
+P078,Northgate Clinic 30,Clinic,General,Chicago,CA
+P079,Harmony Clinic 31,Clinic,General,Dallas,TX
+P080,Brightpath Clinic 32,Clinic,General,Miami,OH
+P081,Sunrise Clinic 33,Clinic,General,Chicago,CO
+P082,Lakeside Clinic 34,Clinic,General,Miami,PA
+P083,Metro Clinic 35,Clinic,General,Chicago,TX
+P084,Cedar Clinic 36,Clinic,General,Miami,CA
+P085,Summit Medical Center 11,Hospital,General,Atlanta,TX
+P086,Riverbend Specialty Center 10,Specialty Practice,Orthopedics,Dallas,TX
+P087,Clearview Clinic 37,Clinic,General,Dallas,FL
+P088,Northgate Diagnostics Lab 11,Lab,General,Houston,TX
+P089,Harmony Clinic 38,Clinic,General,Dallas,TX
+P090,Brightpath Pharmacy 20,Pharmacy,General,Denver,OH
+P091,Sunrise Specialty Center 11,Specialty Practice,Orthopedics,Miami,AZ
+P092,Lakeside Pharmacy 21,Pharmacy,General,Atlanta,PA
+P093,Metro Medical Center 12,Hospital,General,Houston,TX
+P094,Cedar Clinic 39,Clinic,General,Miami,NC
+P095,Summit Specialty Center 12,Specialty Practice,Oncology,Austin,TX
+P096,Riverbend Clinic 40,Clinic,General,Miami,TX
+P097,Clearview Pharmacy 22,Pharmacy,General,Chicago,CA
+P098,Northgate Pharmacy 23,Pharmacy,General,Phoenix,FL
+P099,Harmony Pharmacy 24,Pharmacy,General,Denver,CA
+P100,Brightpath Diagnostics Lab 12,Lab,General,Chicago,AZ
+P101,Sunrise Medical Center 13,Hospital,General,Miami,TX
+P102,Lakeside Pharmacy 25,Pharmacy,General,Atlanta,PA
+P103,Metro Specialty Center 13,Specialty Practice,Cardiology,Phoenix,TX
+P104,Cedar Specialty Center 14,Specialty Practice,Endocrinology,Dallas,GA
+P105,Summit Clinic 41,Clinic,General,Miami,PA
+P106,Riverbend Clinic 42,Clinic,General,Denver,FL
+P107,Clearview Diagnostics Lab 13,Lab,General,Dallas,NC
+P108,Northgate Pharmacy 26,Pharmacy,General,Atlanta,IL
+P109,Harmony Pharmacy 27,Pharmacy,General,Denver,TX
+P110,Brightpath Clinic 43,Clinic,General,Chicago,IL
+P111,Sunrise Diagnostics Lab 14,Lab,General,Austin,IL
+P112,Lakeside Specialty Center 15,Specialty Practice,Oncology,Houston,TX
+P113,Metro Clinic 44,Clinic,General,Miami,CA
+P114,Cedar Pharmacy 28,Pharmacy,General,Austin,TX
+P115,Summit Medical Center 14,Hospital,General,Denver,TX
+P116,Riverbend Clinic 45,Clinic,General,Phoenix,CO
+P117,Clearview Pharmacy 29,Pharmacy,General,Denver,PA
+P118,Northgate Medical Center 15,Hospital,General,Houston,IL
+P119,Harmony Diagnostics Lab 15,Lab,General,Atlanta,TX
+P120,Brightpath Pharmacy 30,Pharmacy,General,Atlanta,TX
